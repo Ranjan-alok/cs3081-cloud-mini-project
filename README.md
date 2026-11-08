@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 # Cloud Computing Mini Project — Command Parser (CS3081)
 
 Knowledge distillation of a command-parsing model (`phi3.5` teacher → `pythia-70m` student),
@@ -134,4 +134,4 @@ cold-start timing, load-balancing evidence) and the 4-day commit plan.
 
 # cs3081-cloud-mini-project
 Knowledge Distillation &amp; Deployment of a Command-Parsing Language Model on a Local Cloud
->>>>>>> f5e9de5470d410b072c824f5666852a866c5da81
+

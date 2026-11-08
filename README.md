@@ -1,9 +1,10 @@
+<<<<<<< HEAD
 # Cloud Computing Mini Project — Command Parser (CS3081)
 
 Knowledge distillation of a command-parsing model (`phi3.5` teacher → `pythia-70m` student),
 served on a local k3d Kubernetes cluster with SeaweedFS object storage.
 
-> **Student:** Alok Ranjan · **Roll number:** 230101088 · **Repo:** https://github.com/eeshsaxena/cs3081-cloud-mini-project
+> **Student:** Alok Ranjan · **Roll number:** 230101088 · **Repo:** https://github.com/Ranjan-alok/cs3081-cloud-mini-project
 
 ## What it does
 Takes one English command and returns a four-key JSON object:
@@ -130,3 +131,7 @@ make down            # k3d cluster delete cloud-mini
 
 See [`docs/RUNBOOK.md`](docs/RUNBOOK.md) for the exact step-by-step (rolling update, recovery,
 cold-start timing, load-balancing evidence) and the 4-day commit plan.
+
+# cs3081-cloud-mini-project
+Knowledge Distillation &amp; Deployment of a Command-Parsing Language Model on a Local Cloud
+>>>>>>> f5e9de5470d410b072c824f5666852a866c5da81
